@@ -91,7 +91,7 @@ Building your own company needs web access, because the AI pulls its filings; th
 
 **Claude Code**
 ```bash
-git clone https://github.com/youtianwei0722-ship-it/dcf-valuation-tutor.git
+git clone https://github.com/tw0507/dcf-valuation-tutor.git
 cp -r dcf-valuation-tutor/valuation-tutor ~/.claude/skills/valuation-tutor
 pip install openpyxl
 ```
@@ -99,7 +99,7 @@ Then run `claude` in a folder where you want your practice files.
 
 **OpenAI Codex**
 ```bash
-git clone https://github.com/youtianwei0722-ship-it/dcf-valuation-tutor.git
+git clone https://github.com/tw0507/dcf-valuation-tutor.git
 mkdir -p ~/.agents/skills
 cp -r dcf-valuation-tutor/valuation-tutor ~/.agents/skills/valuation-tutor
 pip install openpyxl
